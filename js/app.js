@@ -1,2 +1,0 @@
-WeatherXMService.obtenerEstaciones();   
-cargarEstaciones();
