@@ -1,0 +1,88 @@
+/*==================================================
+SISTEMA DE INFORMACIÓN METEOROLÓGICA
+Estado de México
+
+Identidad gráfica institucional
+==================================================*/
+
+:root{
+
+    /*====================================
+      Colores institucionales
+    ====================================*/
+
+    --color-vino-principal: rgb(67,16,27);
+
+    --color-vino-secundario: rgb(133,32,54);
+
+    --color-vino-claro: rgb(155,77,96);
+
+    --color-dorado-claro: rgb(209,183,150);
+
+    --color-dorado: rgb(195,161,120);
+
+    --color-arena: rgb(181,138,85);
+
+    --color-arena-oscuro: rgb(136,104,65);
+
+    --color-rosa: rgb(203,162,171);
+
+    /*====================================
+      Colores auxiliares
+    ====================================*/
+
+    --color-blanco: #ffffff;
+
+    --color-fondo: #f7f7f7;
+
+    --color-texto: #333333;
+
+    --color-gris: #6b6b6b;
+
+    --color-borde: #dddddd;
+
+    /*====================================
+      Tipografía
+    ====================================*/
+
+    --fuente-principal:
+        "Segoe UI",
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    /*====================================
+      Tamaños de texto
+    ====================================*/
+
+    --titulo-principal:18px;
+
+    --subtitulo:16px;
+
+    --titulo-grafica:12px;
+
+    --texto:12px;
+
+    --texto-pequeno:10px;
+
+    --pie-pagina:8px;
+
+    /*====================================
+      Bordes
+    ====================================*/
+
+    --radio-pequeno:6px;
+
+    --radio-mediano:10px;
+
+    --radio-grande:14px;
+
+    /*====================================
+      Sombras
+    ====================================*/
+
+    --sombra-panel:
+
+        0 4px 12px rgba(0,0,0,.15);
+
+}
